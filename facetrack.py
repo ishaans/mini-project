@@ -1,4 +1,5 @@
 #code for face tracking
+
 import cv2
 
 HAAR_CASCADE_PATH = "haarcascade_frontalface_alt.xml"

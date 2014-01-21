@@ -27,6 +27,7 @@ from numpy import *
 import cv2
 import pygame
 
+
 HAAR_CASCADE_PATH = "haarcascade_frontalface_alt.xml"
 CAMERA_INDEX = 1
 matrix = [[[0 for x in xrange(4)] for x in xrange(1)] for x in xrange(20)]

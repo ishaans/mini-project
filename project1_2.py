@@ -1,6 +1,6 @@
-# File: cube.py
+
 '''
-DJ, If you're reading this then it means that you've got the code. We all know you're dating. Just admit it already. 
+ 
 
 Anyhoo, here, this is to install vtk: 
 
